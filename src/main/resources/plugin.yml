@@ -1,0 +1,7 @@
+name: ItemScanner
+version: 1.0
+main: me.scan.ItemScanner
+api-version: 1.20
+commands:
+  finditem:
+    permission: itemscanner.use
