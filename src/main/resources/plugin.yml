@@ -4,4 +4,5 @@ main: me.scan.ItemScanner
 api-version: 1.20
 commands:
   finditem:
+    description: Find specific items in the world.
     permission: itemscanner.use
